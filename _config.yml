@@ -5,7 +5,7 @@ title: Yuze Blog
 description: Yuze的个人博客
 keywords: Yuze
 author: Yuze
-footerText: 'Copyright © 2020'
+footerText: 'Copyright © 2020 Yuze'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
