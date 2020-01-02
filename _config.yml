@@ -2,10 +2,10 @@ encoding: utf-8
 
 # SEO相关信息
 title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+description: Yuze的个人博客
+keywords: Yuze
+author: Yuze
+footerText: 'Copyright © 2020'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -20,7 +20,7 @@ domainUrl: 'http://blog.tmaize.net'
 baseUrl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://http://tieba.baidu.com/f?kw=%CE%D2%B5%C4%CA%C0%BD%E7%D0%A1%B0%D7&fr=ala0&tpl=5
 
 # 菜单
 menu:
@@ -60,17 +60,5 @@ customPlugins:
 
 # 友情链接
 links:
-  - title: TMaize的个人博客
-    url: http://blog.tmaize.net
-  - title: 文科中的技术宅
-    url: https://www.townwang.com
-  - title: Auuu Nya Blog
-    url: http://mu1er.cn
-  - title: 春风十里
-    url: https://www.geek-era.com
-  - title: 阿川的个人博客
-    url: https://achuan.io
-  - title: 魏文成博客
-    url: https://www.wwc.ren
-  - title: 06m
-    url: https://www.06m.me
+  - title:暫無
+    url:暫無
