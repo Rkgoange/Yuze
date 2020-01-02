@@ -8,8 +8,8 @@ title: 友情链接
 ```
 名称：{{ site.title }}
 描述：{{ site.description }}
-地址：{{ site.domainUrl }}{{ site.baseUrl }}
-头像：{{ site.domainUrl }}{{ site.baseUrl }}/static/img/logo.jpg
+地址：https://whitegx.xyz
+头像：https://whitegx.xyz/static/img/logo.jpg
 ```
 
 <ul>
