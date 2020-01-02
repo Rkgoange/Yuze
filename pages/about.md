@@ -3,14 +3,11 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 
+> 
 
 
 
-## 相关技能
+## 官方群组
 
-
-
-## 联系我
 
 
