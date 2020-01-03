@@ -20,8 +20,7 @@ body {
 @font-face
 {
 	font-family: myFirstFont;
-	src: url('Sansation_Light.ttf')
-		,url('Sansation_Light.eot'); /* IE9 */
+	src: url('I.Ming-6.00.ttf')
 }
 * {
   box-sizing: border-box;
