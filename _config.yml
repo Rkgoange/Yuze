@@ -62,3 +62,9 @@ customPlugins:
 links:
   - title:暫無
     url:暫無
+    
+skip_render: 
+ - pages/about.html
+ - 404/404.html
+ - README.md
+    
