@@ -120,4 +120,9 @@
   .list-category div a {
     font-size: 13px;
   }
+  @font-face
+{
+font-family: myFirstFont;
+src: url('I.Ming-6.00.ttf'),
+}
 }
