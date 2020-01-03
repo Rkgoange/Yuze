@@ -7,13 +7,13 @@ title: 关于我
 <head>
 @font-face
 {
-	font-family: myFirstFont;
-	src: url('Sansation_Light.ttf')
+	font-family: I.Ming-6.00;
+	src: url('I.Ming-6.00.ttff')
 }
 
 div
 {
-	font-family:myFirstFont;
+	font-family:I.Ming-6.00;
 }
 </style>
 </head>
