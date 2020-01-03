@@ -5,9 +5,6 @@ title: 关于我
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8"> 
-<title>关于(runoob.com)</title> 
-<style> 
 @font-face
 {
 	font-family: myFirstFont;
