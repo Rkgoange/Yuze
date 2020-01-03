@@ -17,6 +17,12 @@ body {
     'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei',
     sans-serif;
 }
+@font-face
+{
+	font-family: myFirstFont;
+	src: url('Sansation_Light.ttf')
+		,url('Sansation_Light.eot'); /* IE9 */
+}
 * {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
