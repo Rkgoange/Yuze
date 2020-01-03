@@ -12,6 +12,7 @@ title: 关于我
 {
 	font-family: myFirstFont;
 	src: url('Sansation_Light.ttf')
+		,url('Sansation_Light.eot'); /* IE9 */
 }
 
 div
@@ -21,6 +22,8 @@ div
 </style>
 </head>
 <body>
+
+
 
 <div>
 我们定制了这个软件包，以帮助我们演示本文中的某些观点；您可以使用 下载 中的链接下载这个版本。
