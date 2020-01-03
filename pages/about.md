@@ -2,11 +2,11 @@
 layout: mypost
 title: 关于我
 ---
-
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">  
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
 <style> 
 @font-face
 {
