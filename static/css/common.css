@@ -13,12 +13,7 @@ body {
   scroll-behavior: smooth;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font-family: myFirstFont;
-}
-@font-face
-{
-	font-family: myFirstFont;
-	src: url('I.Ming-6.00.ttf')
+  font-family: Consolas;
 }
 * {
   box-sizing: border-box;
