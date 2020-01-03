@@ -20,7 +20,7 @@ domainUrl: 'http://blog.tmaize.net'
 baseUrl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://http://tieba.baidu.com/f?kw=%CE%D2%B5%C4%CA%C0%BD%E7%D0%A1%B0%D7&fr=ala0&tpl=5
+tucaoUrl: https://tieba.baidu.com/f?kw=%CE%D2%B5%C4%CA%C0%BD%E7%D0%A1%B0%D7&fr=ala0&tpl=5
 
 # 菜单
 menu:
