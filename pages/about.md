@@ -2,10 +2,11 @@
 layout: mypost
 title: 关于我
 ---
-div
-{
-  font-family: myFirstFont;
-注意: Internet Explorer 9 只支持 .eot 格式的字体.
+<style>
+p.serif{font-family:myFirstFont;}
+</style>
+</head>
 
-使用 CSS3,网站终于可以使用字体以外的预先选择“合法”字体
-}
+<body>
+<h1>CSS font-family</h1>
+<p class="serif">这一段的字体是 </p>
