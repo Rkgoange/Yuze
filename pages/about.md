@@ -6,13 +6,12 @@ title: 关于我
 <html>
 <head>
 <meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
+<title>关于(runoob.com)</title> 
 <style> 
 @font-face
 {
 	font-family: myFirstFont;
 	src: url('Sansation_Light.ttf')
-		,url('Sansation_Light.eot'); /* IE9 */
 }
 
 div
@@ -23,7 +22,7 @@ div
 </head>
 <body>
 
-
+<p>示例文本</p>
 
 <div>
 我们定制了这个软件包，以帮助我们演示本文中的某些观点；您可以使用 下载 中的链接下载这个版本。
