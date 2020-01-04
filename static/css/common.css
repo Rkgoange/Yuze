@@ -9,7 +9,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background: url（http://lorempixel.com/1600/900）;
+  background-image: url（http://pic.tsmp4.net/api/erciyuan/img.php）;
   scroll-behavior: smooth;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
