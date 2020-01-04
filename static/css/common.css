@@ -9,7 +9,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background: #ffffff;
+  background: url（http://lorempixel.com/1600/900）;
   scroll-behavior: smooth;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
