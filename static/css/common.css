@@ -1,7 +1,7 @@
 @media screen and (max-width: 560px) {
   @font-face {
     font-family: 'Consolas';
-    src: url('../font/consola.ttf');
+    src: url('../font/http://xykjyjs.test.upcdn.net/consola.ttf');
   }
 }
 
