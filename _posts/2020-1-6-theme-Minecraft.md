@@ -19,8 +19,6 @@ categories: [Minecraft]
 【连锁挖矿】VeinMiner-1.12-0.38.2.647+b31535a                                                         
 【皮肤】CustomSkinLoader_Forge-14.7
 
-2020/1/5凌晨00:00,该模组列表草案已经经花山天皇陛下授旨。
-玉言：
-![avatar](../image/yuzhi202015.jpg)
-国之玉玺：
-![avatar](../image/yuxi.jpg)
+
+
+
