@@ -21,7 +21,6 @@ categories: [Minecraft]
 
 2020/1/5凌晨00:00,该模组列表草案已经经花山天皇陛下授旨。
 玉言：
-![avatar](https://raw.githubusercontent.com/Rkgoange/Yuze/master/image/yuzhi202015.jpg)
+![avatar](image/yuzhi202015.jpg)
 国之玉玺：
-![avatar](https://raw.githubusercontent.com/Rkgoange/Yuze/master/image/yuxi.jpg)
-
+![avatar](image/yuxi.jpg)
