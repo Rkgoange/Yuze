@@ -21,7 +21,7 @@ categories: [Minecraft]
 
 2020/1/5凌晨00:00,该模组列表草案已经经花山天皇陛下授旨。
 玉言：
-![avatar](https://gss3.bdstatic.com/84oSdTum2Q5BphGlnYG/timg?wapp&quality=100&size=b414_2000&sec=1578151730&di=0584509bae5bf98f4e541dccbce3761e&wh_rate=null&tieba_t=351034&src=http%3A%2F%2Ftiebapic.baidu.com%2Fforum%2Fpic%2Fitem%2F55e19d1b0ef41bd53d1c658d46da81cb38db3d7f.jpg)
+![avatar](../image/yuzhi202015.jpg)
 国之玉玺：
-![avatar](https://gss3.bdstatic.com/84oSdTum2Q5BphGlnYG/timg?wapp&quality=100&size=b414_2000&sec=1578151419&di=0dd0b649925207b0cf8e0620b46a9df5&wh_rate=null&tieba_t=174093&src=http%3A%2F%2Ftiebapic.baidu.com%2Fforum%2Fpic%2Fitem%2F925e8211728b47103b6070b5d4cec3fdfd03237f.jpg)
+![avatar](../image/yuxi.jpg)
 
