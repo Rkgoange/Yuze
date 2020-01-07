@@ -19,7 +19,9 @@ categories: [Minecraft]
 【连锁挖矿】VeinMiner-1.12-0.38.2.647+b31535a                                                         
 【皮肤】CustomSkinLoader_Forge-14.7
 
+花山天皇阅后作出指示，玉言如下：
 ![图片](image/yuzhi202015.jpg)
-玉玺
+
+玉玺：
  ![图片](image/yuxi.jpg)
 
