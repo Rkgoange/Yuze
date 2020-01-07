@@ -19,6 +19,7 @@ categories: [Minecraft]
 【连锁挖矿】VeinMiner-1.12-0.38.2.647+b31535a                                                         
 【皮肤】CustomSkinLoader_Forge-14.7
 
-
-
+![这是图片](yuzhi202015.jpg)
+玉玺
+ ![这是图片](yuxi.jpg)
 
