@@ -20,8 +20,8 @@ categories: [Minecraft]
 【皮肤】CustomSkinLoader_Forge-14.7
 
 花山天皇阅后作出指示，玉言如下：
-![图片](image/yuzhi202015.jpg)
+![图片](https://raw.githubusercontent.com/Rkgoange/image/master/yuzhi202015.jpg)
 
 玉玺：
- ![图片](image/yuxi.jpg)
+ ![图片](https://raw.githubusercontent.com/Rkgoange/image/master/yuxi.jpg)
 
