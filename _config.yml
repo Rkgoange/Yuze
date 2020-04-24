@@ -36,6 +36,8 @@ menu:
     url: /pages/chat.html
   - title: 关于
     url: /pages/about.html
+  - title: 註冊服務器
+    url: /pages/test.html
 
 # 自定义插件
 # plugin-mta-stats
